@@ -4,7 +4,7 @@
 - 1/2 copo de leite
 - 1 colher (sobremesa) da chocolate em pó
 
-      ## CREME BRANCO:
+    ## CREME BRANCO:
 - 1 lata de leite condensado
 - 1 lata de leite de vaca (use a medida da lata de leite condensado)
 - 1 colher (sobremesa) de amido de milho
